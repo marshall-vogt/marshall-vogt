@@ -7,6 +7,7 @@
 ## :man_technologist: About Me :
 Hello, I am Marshall Vogt, a passionate Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Orange County, CA. I thrive on challenges and enjoy creating innovative solutions to real-world problems. With a background in customer service, I bring a unique perspective to every project I undertake.
 
+---
 ## 🚀 What I Do
 
 - :telescope: I love building user-friendly web applications, solving complex data problems, or automating tasks.
@@ -15,6 +16,7 @@ Hello, I am Marshall Vogt, a passionate Full-Stack Developer <img src="https://m
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
+---
 ## 💡 Let's Collaborate
 
 I'm always open to collaboration and learning from others. If you're interested in working together on a project or just want to chat about technology, feel free to reach out. You can find me on LinkedIn, or drop me an email at [vogt_marshall@yahoo.com].
@@ -31,7 +33,6 @@ Thanks for stopping by, and I look forward to connecting with you!
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white&color=235B97)
 ![React.js](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=white&color=000000) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=6699C4&color=212121)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
