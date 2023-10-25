@@ -52,8 +52,7 @@ Thanks for stopping by, and I look forward to connecting with you!
 ---
 
 ## :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=marshall-vogt)](https://git.io/streak-stats)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/marshall-vogt?cardType=level&theme=vision-friendly-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marshall-vogt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
