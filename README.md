@@ -19,7 +19,7 @@ Hello, I am Marshall Vogt, a passionate Full-Stack Developer <img src="https://m
 ---
 ## 💡 Let's Collaborate
 
-I'm always open to collaboration and learning from others. If you're interested in working together on a project or just want to chat about technology, feel free to reach out. You can find me on LinkedIn, or drop me an email at [vogt_marshall@yahoo.com].
+I'm always open to collaboration and learning from others. If you're interested in working together on a project or just want to chat about technology, feel free to reach out. You can find me on LinkedIn.
 
 Thanks for stopping by, and I look forward to connecting with you!
 
